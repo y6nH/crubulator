@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EDIT appVersion="6.2.3" creationTime="1471561921436" lastPluginChange="1474066939728"
+      modifiedBy="Hugh" mediaId="f7804/26e2af3" lastSignificantChange="157353e08f9">
+  <TEMPOSEQUENCE>
+    <TEMPO startBeat="0" bpm="110.34484100341797" curve="1"/>
+    <TIMESIG numerator="4" denominator="4" startBeat="0"/>
+  </TEMPOSEQUENCE>
+  <PITCHSEQUENCE>
+    <PITCH start="0" pitch="60"/>
+  </PITCHSEQUENCE>
+  <VIEWSTATE sidePanelShown="0" cursorpos="24.138871856204904" viewleft="7.40930093137559"
+             viewright="24.480291670997339" tracktop="0" markOut="23.92499709087646"
+             filterAreaWidth="0.64747953414916992"/>
+  <AUTOMAPXML/>
+  <CLICKTRACK level="0.60000002384185791"/>
+  <ID3VORBISMETADATA trackNumber="1" date="2016"/>
+  <MASTERVOLUME>
+    <FILTER type="volume" volume="0.63762813806533813" id="0/2c0b64b9"/>
+  </MASTERVOLUME>
+  <RACKFILTERS/>
+  <MASTERFILTERS/>
+  <AUXBUSNAMES/>
+  <TRACKCOMPS/>
+  <DEVICESEX>
+    <INPUTDEVICE name="Input 1" targetIndex="-1" armed="0"/>
+    <INPUTDEVICE name="Input 2" targetIndex="-1" armed="0"/>
+  </DEVICESEX>
+  <ARADOCUMENT/>
+  <CONTROLLERMAPPINGS/>
+  <TEMPOTRACK name="Global" mediaId="f7804/2cc2965b"/>
+  <MARKERTRACK name="Marker" trackType="2" mediaId="f7804/26cf73ce"/>
+  <MARKERTRACK name="Marker" trackType="1" mediaId="f7804/77f67d6"/>
+  <MARKERTRACK name="Marker" trackType="0" mediaId="f7804/130b5e36"/>
+  <TRACK mediaId="f7804/3dd20bb" midiVProp="0.28125" midiVOffset="0.25323705179282868"
+         height="270">
+    <CLIP name="New MIDI Clip" type="midi" start="0" length="23.92499709087646"
+          offset="0" sync="0" mediaId="f7804/3318cb4" colour="b4e3ae44">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="75" b="0" l="2" v="96" c="0"/>
+        <NOTE p="83" b="2" l="2" v="96" c="0"/>
+        <NOTE p="78" b="4" l="2" v="96" c="0"/>
+        <NOTE p="71" b="6" l="2" v="96" c="0"/>
+        <NOTE p="85" b="8" l="2" v="96" c="0"/>
+        <NOTE p="81" b="10" l="2" v="96" c="0"/>
+        <NOTE p="76" b="12" l="2" v="96" c="0"/>
+        <NOTE p="71" b="14" l="2" v="96" c="0"/>
+        <NOTE p="83" b="16" l="2" v="96" c="0"/>
+        <NOTE p="75" b="18" l="2" v="96" c="0"/>
+        <NOTE p="80" b="20" l="2" v="96" c="0"/>
+        <NOTE p="76" b="22" l="2" v="96" c="0"/>
+        <NOTE p="69" b="24" l="2" v="96" c="0"/>
+        <NOTE p="76" b="26" l="2" v="96" c="0"/>
+        <NOTE p="81" b="28" l="2" v="96" c="0"/>
+        <NOTE p="78" b="30" l="2" v="96" c="0"/>
+        <NOTE p="68" b="32" l="4" v="96" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="62757263" filename="F:\CSound\Cabbage\Crubulator.dll"
+            name="Crubulator" manufacturer="CabbageAudio" id="0/173ac8f6"
+            windowX="1292" windowY="337" windowLocked="0" programNum="0"
+            state="430.CMlaKA....fQBMDZ....AHVcxMF....Y....A.............................................................................................................................................................................P.NX0PxDRAA...7LTPBITPGUzWPwTUGkjSeMUQTQURNczTf.WcrMWY2kFYzgVOh.iKzHCLv.CLvDiM1fSNy.CL0LyMwDiHfDFczE1Xq0iHv3BLvDSN4fCLvPCLybCN3XCN0bSN3XSMh.BYkMVX40iHv3RL4LiMv.CMvDiL3HyLw.CM3TCNzHBHyU2bzEVZt0iHv3hL4.CLv.CLxDCM0biM2HSLwjSLzHBHxUFakE1bk0iHv3BM0DiMv.SNyjCLyTCMwTiMzjCMwHBHiUGcuYlY8HBLt.iLxHCM3jiLwjSL0fCN3bCN1LSL1HBHxU1bu4VXtMVY8HBLtbyM1.CLv.iLxfCN3DCNyTSNybSMh7hO.."
+            quickParamName="pulsewidth">
+      <AUTOMATIONCURVE name="pulsewidth">
+        <POINT t="3.7357823129273582" v="0.42000001668930054" c="0"/>
+        <POINT t="3.7357823129273582" v="0.42444446682929993" c="0"/>
+        <POINT t="12.872834467127451" v="0.67555558681488037" c="0"/>
+        <POINT t="15.624399092979321" v="0.55222225189208984" c="0"/>
+        <POINT t="23.310204081645725" v="0.55222225189208984" c="0"/>
+        <POINT t="23.310204081645725" v="0.42000001668930054" c="0"/>
+      </AUTOMATIONCURVE>
+    </FILTER>
+    <FILTER type="volume" id="0/37cb1ce3"/>
+    <FILTER type="level" id="0/11dfa1c7"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/1023934f" midiVProp="0.34326923076923077" midiVOffset="0.46225099601593628"
+         height="50" currentAutoParamFilter="0/88aba1" currentAutoParamTag="cutoff">
+    <CLIP name="New MIDI Clip" type="midi" start="0" length="23.92499709087646"
+          offset="0" sync="0" mediaId="f7804/4a504c" colour="b4aee344">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="35" b="0" l="4" v="96" c="0"/>
+        <NOTE p="31" b="8" l="4" v="96" c="0"/>
+        <NOTE p="35" b="16" l="4" v="96" c="0"/>
+        <NOTE p="28" b="24" l="4" v="96" c="0"/>
+        <NOTE p="32" b="32" l="12" v="96" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="62757263" filename="F:\CSound\Cabbage\Crubulator.dll"
+            name="Crubulator" manufacturer="CabbageAudio" id="0/88aba1" windowX="1021"
+            windowY="222" windowLocked="1" programNum="0" state="405.CMlaKA....fQBMDZ....AHVcxMF....Y....A...............................................................................................................................................................................0a0PxDB6....7LTPBITPGUzWPwTUGkjSeMUQTQURNczTf.WcrMWY2kFYzgVOh.iKyDSN4jSN4jiL3PyMzPiL1HiM4TiHfDFczE1Xq0iHv3xLxHiMv.iM1HyMvfiL3HCM2.yMh.BYkMVX40iHv3RL4LiMv.CMvDiL3HyLw.CM3TCNzHBHyU2bzEVZt0iHv3hL4.CLv.CLxDCM0biM2HSLwjSLzHBHxUFakE1bk0iHv3BM0DiMv.SNyjCLyTCMwTiMzjCMwHBHiUGcuYlY8HBLh.hbkM2atElaiUVOh.iK4PCMv.CLvXSMyHiM1jCL1byL3LiHu3C."
+            quickParamName="cutoff">
+      <AUTOMATIONCURVE name="cutoff">
+        <POINT t="0" v="0.0037735700607299805" c="-0.26666668057441711"/>
+        <POINT t="3" v="0.06415092945098877" c="-0.13333334028720856"/>
+        <POINT t="10.5" v="0.24528300762176514" c="0.10666666924953461"/>
+        <POINT t="22" v="0" c="0"/>
+        <POINT t="23" v="0" c="0"/>
+      </AUTOMATIONCURVE>
+    </FILTER>
+    <FILTER type="volume" id="0/18189ff6"/>
+    <FILTER type="level" id="0/1d567a14"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/1b9b32c0" midiVProp="0.24697296005249542" midiVOffset="0.34241669361859928"
+         height="50">
+    <CLIP name="New MIDI Clip" type="midi" start="0" length="23.922470084105676"
+          offset="0" sync="0" mediaId="f7804/3f812d3" colour="b444e344">
+      <QUANTISATION/>
+      <GROOVE/>
+      <MIDISEQUENCE ver="1" channelNumber="1">
+        <NOTE p="59" b="16" l="4" v="96" c="0"/>
+        <NOTE p="66" b="17.999999999999996" l="2" v="96" c="0"/>
+        <NOTE p="56" b="23" l="7" v="96" c="0"/>
+        <NOTE p="59" b="24" l="2" v="96" c="0"/>
+        <NOTE p="61" b="25.999999999999996" l="2" v="96" c="0"/>
+        <NOTE p="63" b="28" l="2" v="96" c="0"/>
+        <NOTE p="52" b="32" l="1" v="96" c="0"/>
+        <NOTE p="51" b="35.999999999999993" l="2" v="96" c="0"/>
+        <NOTE p="52" b="33" l="1" v="96" c="0"/>
+        <NOTE p="51" b="35" l="1" v="96" c="0"/>
+        <NOTE p="44" b="36" l="2" v="96" c="0"/>
+        <NOTE p="32" b="37" l="1.0000000000000004" v="96" c="0"/>
+      </MIDISEQUENCE>
+    </CLIP>
+    <FILTER type="vst" uid="62757263" filename="F:\CSound\Cabbage\Crubulator.dll"
+            name="Crubulator" manufacturer="CabbageAudio" id="0/e6fb0b5"
+            windowX="984" windowY="191" windowLocked="0" programNum="0" state="344.CMlaKA....fQBMDZ....AHVcxMF....Y....A...............................................................................................................................................................................3Z0PxDxq....7LTPBITPGUzWPwTUGkjSeMUQTQURNczTf.WcrMWY2kFYzgVOh.iHfDFczE1Xq0iHvHBHjU1XgkWOh.iKvLSN4jCNvfCL0fSLzHiM1HCLzfyLh.xb0MGcgkla8HBLtbCMx.CLv.CMyLSNxDCNwLSN1PCNh.hbkwVYgMWY8HBLh.xX0Q2alYVOhDiHfHWYy8lag41Xk0iHv3xLzfCLv.CLwjyM3fyMzHCL1TCMyHxK9.."/>
+    <FILTER type="volume" id="0/1e008623"/>
+    <FILTER type="level" id="0/366fc486"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/3d5b7413" midiVProp="0.28125" midiVOffset="0.359375"
+         height="55">
+    <FILTER type="volume" id="0/189fa308"/>
+    <FILTER type="level" id="0/e48fc08"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/2952f388" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/14f6dddb"/>
+    <FILTER type="level" id="0/39564d83"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/1ed88bc6" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/145d3ea5"/>
+    <FILTER type="level" id="0/847c557"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/28550704" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/2918927f"/>
+    <FILTER type="level" id="0/3dc90969"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+  <TRACK mediaId="f7804/1e990334" midiVProp="0.28125" midiVOffset="0.359375">
+    <FILTER type="volume" id="0/1a8aece0"/>
+    <FILTER type="level" id="0/2e0a071b"/>
+    <OUTPUTDEVICES>
+      <DEVICE name="(default audio output)"/>
+    </OUTPUTDEVICES>
+  </TRACK>
+</EDIT>
